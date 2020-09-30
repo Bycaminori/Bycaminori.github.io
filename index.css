@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+#title {
+    font-family: 'Alata';
+    letter-spacing: 1px;
+}
+
+#prendas {
+    font-family: 'Alata';
+    letter-spacing: 1px;
+}
